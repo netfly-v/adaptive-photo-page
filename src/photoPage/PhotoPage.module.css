@@ -1,0 +1,20 @@
+.photoPage {
+    text-align: center;
+    font-size: 24px;
+    padding: 20px 0;
+}
+
+.header {
+    margin-bottom: 20px;
+}
+
+.photoButton {
+    padding: 10px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.photoButton :hover {
+    border: 2px blue solid;
+}
